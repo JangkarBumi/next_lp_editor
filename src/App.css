@@ -1,3 +1,11 @@
 .editor {
   width: 50vw;
 }
+
+.hero {
+  display: flex;
+}
+
+.hero-img {
+  width: 40rem;
+}
